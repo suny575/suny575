@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suny575
+- 👋 Hi, I’m Tsehayinesh
 - 👀 I’m interested in coders life
 - 🌱 I’m currently learning ...cs
 - 💞️ I’m looking to collaborate on ...
